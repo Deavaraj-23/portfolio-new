@@ -202,7 +202,7 @@ box-shadow: inset -2px -9px 44px 0px rgb(5, 5, 5);
         width:0;
     }
     100%{
-        width:30%;
+        width:60%;
     }
 }
 @keyframes load5{
@@ -218,7 +218,7 @@ box-shadow: inset -2px -9px 44px 0px rgb(5, 5, 5);
         width:0;
     }
     100%{
-        width:30%;
+        width:60%;
     }
 }
 @keyframes load7{
